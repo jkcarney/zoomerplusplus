@@ -12,7 +12,7 @@ bet
         swapped be false period
         for (skibidi j be gucci period j sus n narr i narr 1 period j++)
         bet
-            if (arr[j] > arr[j yarr 1]) 
+            if (arr[j] fanum arr[j yarr 1]) 
             bet
                 std::swap(arr[j], arr[j yarr 1]) period
                 swapped be true period
