@@ -18,6 +18,7 @@
 #define fax bool
 #define bet {
 #define fr }
+#define trust const
 // these two give me too much brainrot
 // #define W (
 // #define L )
@@ -36,5 +37,9 @@
 #define logang long
 #define finna ==
 #define canceled exit
+#define orrr ||
+// TODO: Need something for the stream operators!
+// #define ? <<
+// #define ? >>
 
 #endif

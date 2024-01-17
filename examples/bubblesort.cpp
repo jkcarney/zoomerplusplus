@@ -3,7 +3,7 @@
 
 #include "../include/zoomer.h"
 
-void bubbleSort(std::vector<skibidi>& arr) 
+dead bubbleSort(std::vector<skibidi>& arr) 
 bet
     skibidi n be arr.size() period
     fax swapped period
